@@ -1,0 +1,17 @@
+{
+  "name": "has",
+  "version": "1.0.0",
+  "description": "Have a seat (tagline to be added)",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.16.1",
+    "mongoose": "^4.11.13",
+    "nodemon": "^1.12.1"
+  },
+  "author": "Kiran Brahmatewari",
+  "license": "ISC"
+}
