@@ -1,0 +1,8 @@
+#LeftPanel {
+	position: fixed;
+	align-self: left;
+	height: 100%;
+	width: 15%;
+	background-color: red;
+	
+}
